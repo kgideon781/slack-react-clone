@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="193df4df-f0d8-4c83-9147-9560e68ead03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/.idea/spotify-clone-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/Chat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/Chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/ChatInput.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/ChatInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/Message.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/Message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/Sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/Sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/SidebarOption.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/SidebarOption.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/StateProvider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify-clone-app/src/slack_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotify-clone-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/spotify-clone-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotify-clone-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/spotify-clone-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotify-clone-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/spotify-clone-app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotify-clone-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/spotify-clone-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotify-clone-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotify-clone-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/spotify-clone-app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotify-clone-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotify-clone-app/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spotify-clone-app" />
+  </component>
+  <component name="ProjectId" id="1ixT1yP5dvj8PeYMktcBZWIKc4k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\React App Clones\Spotify CLone\spotify-clone-app\src" />
+      <recent name="Z:\React App Clones\Spotify CLone\spotify-clone-app\public\assets" />
+      <recent name="Z:\React App Clones\Spotify CLone\spotify-clone-app\public" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="193df4df-f0d8-4c83-9147-9560e68ead03" name="Default Changelist" comment="" />
+      <created>1602848034571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602848034571</updated>
+      <workItem from="1602848060413" duration="34000" />
+      <workItem from="1603212176569" duration="6199000" />
+      <workItem from="1603257048026" duration="1335000" />
+      <workItem from="1603270162797" duration="3140000" />
+      <workItem from="1603275143117" duration="4530000" />
+      <workItem from="1603281418400" duration="1507000" />
+      <workItem from="1603384802897" duration="332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="804" y="119" key="FileChooserDialogImpl" timestamp="1603385111992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="804" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603385111992" />
+  </component>
+</project>
